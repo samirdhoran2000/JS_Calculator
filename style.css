@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background-color: rgb(107, 126, 38);
+}
+
+.container{
+    border: 1px solid red;
+    display: inline-block;
+    background-color: bisque;
+    border-radius: 12px;
+    padding: 15px;
+}
+
+#input{
+    font-size: 25px;
+    height: 55px;
+    width: 350px;
+    margin-bottom: 10px;
+    background-color: rgb(238, 239, 206);
+}
+
+.btn{
+    background-color: rgb(251, 242, 120);
+}
+
+input{
+    font-size: 22px;
+    width: 70px;
+    height: 40px;
+    border-radius: 12px;
+    margin: 14px;
+    padding: 11px;
+    
+}
